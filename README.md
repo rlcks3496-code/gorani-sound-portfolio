@@ -1,5 +1,7 @@
 # GORANI SOUND — Sound Post-production Portfolio
 
+**Live Site:** https://rlcks3496-code.github.io/gorani-sound-portfolio/
+
 사운드 후반작업 포트폴리오 사이트입니다.
 
 단편영화, 독립 영상, 상업 드라마 현장 경험을 바탕으로 Dialogue Cleanup, Foley, Sound Design, Final Mix 작업과 크레딧을 정리합니다.
@@ -33,6 +35,8 @@
 ## Deployment
 
 GitHub Pages를 통해 배포합니다.
+
+https://rlcks3496-code.github.io/gorani-sound-portfolio/
 
 ## Status
 
